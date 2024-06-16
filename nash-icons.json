@@ -76,6 +76,7 @@
   "folderExpanded": "folder-open",
   "file": "text",
   "fileExtensions": {
+    "vsix": "vscode",
     "chr": "lang",
     "prisma": "prisma",
     "zmodel": "prisma",
@@ -106,8 +107,8 @@
     "properties": "terminal"
   },
   "fileNames": {
-    "page.tsx": "app",
-    "layout.tsx": "app",
+    "page.tsx": "next",
+    "layout.tsx": "next",
     "next-env.d.ts": "next",
     "next.config.mjs": "next",
     "tailwind.config.ts": "tw",

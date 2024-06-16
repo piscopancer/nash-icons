@@ -5,6 +5,10 @@
   "version": "1.0.0",
   "publisher": "piscopancer",
   "license": "MIT",
+  "scripts": {
+    "build": "vsce package",
+    "install": "code --install-extension nash-icons-1.0.0.vsix"
+  },
   "engines": {
     "vscode": "*"
   },
