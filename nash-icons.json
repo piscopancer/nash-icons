@@ -1,0 +1,130 @@
+{
+  "iconDefinitions": {
+    "app": {
+      "iconPath": "./icons/app.svg"
+    },
+    "archive": {
+      "iconPath": "./icons/archive.svg"
+    },
+    "book": {
+      "iconPath": "./icons/book.svg"
+    },
+    "db": {
+      "iconPath": "./icons/db.svg"
+    },
+    "folder-open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "folder-root": {
+      "iconPath": "./icons/folder-root.svg"
+    },
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "image": {
+      "iconPath": "./icons/image.svg"
+    },
+    "next": {
+      "iconPath": "./icons/next.svg"
+    },
+    "package": {
+      "iconPath": "./icons/package.svg"
+    },
+    "packages": {
+      "iconPath": "./icons/packages.svg"
+    },
+    "prisma": {
+      "iconPath": "./icons/prisma.svg"
+    },
+    "react": {
+      "iconPath": "./icons/react.svg"
+    },
+    "server": {
+      "iconPath": "./icons/server.svg"
+    },
+    "settings": {
+      "iconPath": "./icons/settings.svg"
+    },
+    "terminal": {
+      "iconPath": "./icons/terminal.svg"
+    },
+    "text": {
+      "iconPath": "./icons/text.svg"
+    },
+    "lang": {
+      "iconPath": "./icons/lang.svg"
+    },
+    "ts": {
+      "iconPath": "./icons/ts.svg"
+    },
+    "tw": {
+      "iconPath": "./icons/tw.svg"
+    },
+    "vector": {
+      "iconPath": "./icons/vector.svg"
+    },
+    "vscode": {
+      "iconPath": "./icons/vscode.svg"
+    }
+  },
+  "hidesExplorerArrows": true,
+  "rootFolder": "folder",
+  "folder": "folder",
+  "folderExpanded": "folder-open",
+  "file": "text",
+  "fileExtensions": {
+    "chr": "lang",
+    "prisma": "prisma",
+    "zmodel": "prisma",
+    "ts": "ts",
+    "json": "db",
+    "db": "db",
+    "jsx": "react",
+    "tsx": "react",
+    "gif": "image",
+    "jpeg": "image",
+    "jpg": "image",
+    "png": "image",
+    "svg": "vector",
+    "md": "book",
+    "zip": "archive",
+    "7z": "archive",
+    "jar": "archive",
+    "eslintrc": "settings",
+    "eslintignore": "settings",
+    "prettierrc": "settings",
+    "prettierignore": "settings",
+    "gitignore": "git",
+    "gitattributes": "git"
+  },
+  "languageIds": {
+    "shell": "terminal",
+    "shellscript": "terminal",
+    "properties": "terminal"
+  },
+  "fileNames": {
+    "page.tsx": "app",
+    "layout.tsx": "app",
+    "next-env.d.ts": "next",
+    "next.config.mjs": "next",
+    "tailwind.config.ts": "tw",
+    "server.ts": "server",
+    "actions.ts": "server",
+    "settings.json": "settings",
+    "package.json": "package",
+    "package-lock.json": "package",
+    "bun.lockb": "package"
+  },
+  "folderNames": {
+    "src": "folder-root",
+    ".vscode": "vscode",
+    "node_modules": "packages"
+  },
+  "folderNamesExpanded": {
+    ".vscode": "vscode",
+    "node_modules": "packages"
+  }
+}

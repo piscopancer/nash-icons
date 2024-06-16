@@ -1,0 +1,33 @@
+{
+  "name": "nash-icons",
+  "displayName": "Nash Icons",
+  "description": "File and folder icons for VS Code, designed to work with Nash Dark Theme",
+  "version": "1.0.0",
+  "publisher": "piscopancer",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "icons",
+    "icon",
+    "file",
+    "folder"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "nash-icons",
+        "label": "Nash Icons",
+        "path": "./nash-icons.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "piscopancer"
+  }
+}
