@@ -33,5 +33,6 @@
   },
   "author": {
     "name": "piscopancer"
-  }
+  },
+  "icon": "./assets/icon.png"
 }

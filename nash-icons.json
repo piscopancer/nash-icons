@@ -76,6 +76,7 @@
   "folderExpanded": "folder-open",
   "file": "text",
   "fileExtensions": {
+    "vscodeignore": "vscode",
     "vsix": "vscode",
     "chr": "lang",
     "prisma": "prisma",
@@ -120,11 +121,13 @@
     "bun.lockb": "package"
   },
   "folderNames": {
+    ".next": "next",
     "src": "folder-root",
     ".vscode": "vscode",
     "node_modules": "packages"
   },
   "folderNamesExpanded": {
+    ".next": "next",
     ".vscode": "vscode",
     "node_modules": "packages"
   }
