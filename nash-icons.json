@@ -1,8 +1,5 @@
 {
   "iconDefinitions": {
-    "app": {
-      "iconPath": "./icons/app.svg"
-    },
     "archive": {
       "iconPath": "./icons/archive.svg"
     },
@@ -27,6 +24,12 @@
     "image": {
       "iconPath": "./icons/image.svg"
     },
+    "lang": {
+      "iconPath": "./icons/lang.svg"
+    },
+    "navbar": {
+      "iconPath": "./icons/navbar.svg"
+    },
     "next": {
       "iconPath": "./icons/next.svg"
     },
@@ -35,6 +38,9 @@
     },
     "packages": {
       "iconPath": "./icons/packages.svg"
+    },
+    "palette": {
+      "iconPath": "./icons/palette.svg"
     },
     "prisma": {
       "iconPath": "./icons/prisma.svg"
@@ -53,9 +59,6 @@
     },
     "text": {
       "iconPath": "./icons/text.svg"
-    },
-    "lang": {
-      "iconPath": "./icons/lang.svg"
     },
     "ts": {
       "iconPath": "./icons/ts.svg"
@@ -91,7 +94,6 @@
     "jpg": "image",
     "png": "image",
     "svg": "vector",
-    "md": "book",
     "zip": "archive",
     "7z": "archive",
     "jar": "archive",
@@ -105,16 +107,26 @@
   "languageIds": {
     "shell": "terminal",
     "shellscript": "terminal",
-    "properties": "terminal"
+    "properties": "terminal",
+    "postcss": "palette",
+    "scss": "palette",
+    "css": "palette",
+    "html": "navbar",
+    "markdown": "book"
   },
   "fileNames": {
     "page.tsx": "next",
     "layout.tsx": "next",
+    "404.tsx": "next",
+    "loading.tsx": "next",
+    "error.tsx": "next",
     "next-env.d.ts": "next",
     "next.config.mjs": "next",
     "tailwind.config.ts": "tw",
     "server.ts": "server",
     "actions.ts": "server",
+    "postcss.config.mjs": "settings",
+    "tsconfig.json": "settings",
     "settings.json": "settings",
     "package.json": "package",
     "package-lock.json": "package",
