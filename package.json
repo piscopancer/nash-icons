@@ -1,4 +1,5 @@
 {
+  "icon": "./assets/icon.png",
   "name": "nash-icons",
   "displayName": "Nash Icons",
   "description": "File and folder icons for VS Code, designed to work with Nash Dark Theme",
@@ -34,5 +35,7 @@
   "author": {
     "name": "piscopancer"
   },
-  "icon": "./assets/icon.png"
+  "repository": {
+    "url": "https://github.com/piscopancer/nash-icons"
+  }
 }

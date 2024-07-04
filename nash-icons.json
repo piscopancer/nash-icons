@@ -48,6 +48,9 @@
     "react": {
       "iconPath": "./icons/react.svg"
     },
+    "redux": {
+      "iconPath": "./icons/redux.svg"
+    },
     "server": {
       "iconPath": "./icons/server.svg"
     },
@@ -65,6 +68,9 @@
     },
     "tw": {
       "iconPath": "./icons/tw.svg"
+    },
+    "variable": {
+      "iconPath": "./icons/variable.svg"
     },
     "vector": {
       "iconPath": "./icons/vector.svg"
@@ -96,18 +102,12 @@
     "svg": "vector",
     "zip": "archive",
     "7z": "archive",
-    "jar": "archive",
-    "eslintrc": "settings",
-    "eslintignore": "settings",
-    "prettierrc": "settings",
-    "prettierignore": "settings",
-    "gitignore": "git",
-    "gitattributes": "git"
+    "jar": "archive"
   },
   "languageIds": {
-    "shell": "terminal",
-    "shellscript": "terminal",
-    "properties": "terminal",
+    "shell": "variable",
+    "shellscript": "variable",
+    "properties": "variable",
     "postcss": "palette",
     "scss": "palette",
     "css": "palette",
@@ -117,20 +117,28 @@
   "fileNames": {
     "page.tsx": "next",
     "layout.tsx": "next",
+    "middleware.ts": "next",
     "404.tsx": "next",
     "loading.tsx": "next",
     "error.tsx": "next",
     "next-env.d.ts": "next",
     "next.config.mjs": "next",
+    "store.ts": "redux",
     "tailwind.config.ts": "tw",
     "server.ts": "server",
     "actions.ts": "server",
+    ".eslintrc.json": "settings",
+    ".eslintignore.json": "settings",
+    ".prettierrc.json": "settings",
+    ".prettierignore.json": "settings",
     "postcss.config.mjs": "settings",
     "tsconfig.json": "settings",
     "settings.json": "settings",
     "package.json": "package",
     "package-lock.json": "package",
-    "bun.lockb": "package"
+    "bun.lockb": "package",
+    ".gitignore": "git",
+    ".gitattributes": "git"
   },
   "folderNames": {
     ".next": "next",
