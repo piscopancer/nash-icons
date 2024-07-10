@@ -3,6 +3,9 @@
     "archive": {
       "iconPath": "./icons/archive.svg"
     },
+    "bird": {
+      "iconPath": "./icons/bird.svg"
+    },
     "book": {
       "iconPath": "./icons/book.svg"
     },
@@ -26,6 +29,9 @@
     },
     "lang": {
       "iconPath": "./icons/lang.svg"
+    },
+    "lua": {
+      "iconPath": "./icons/lua.svg"
     },
     "navbar": {
       "iconPath": "./icons/navbar.svg"
@@ -112,7 +118,9 @@
     "scss": "palette",
     "css": "palette",
     "html": "navbar",
-    "markdown": "book"
+    "markdown": "book",
+    "lua": "lua",
+    "latex": "bird"
   },
   "fileNames": {
     "page.tsx": "next",
