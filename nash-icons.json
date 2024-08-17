@@ -83,6 +83,9 @@
     },
     "vscode": {
       "iconPath": "./icons/vscode.svg"
+    },
+    "xml": {
+      "iconPath": "./icons/xml.svg"
     }
   },
   "hidesExplorerArrows": true,
@@ -105,10 +108,12 @@
     "jpeg": "image",
     "jpg": "image",
     "png": "image",
+    "dds": "image",
     "svg": "vector",
     "zip": "archive",
     "7z": "archive",
-    "jar": "archive"
+    "jar": "archive",
+    "ltx": "bird"
   },
   "languageIds": {
     "shell": "variable",
@@ -120,7 +125,9 @@
     "html": "navbar",
     "markdown": "book",
     "lua": "lua",
-    "latex": "bird"
+    "latex": "bird",
+    "ini": "settings",
+    "xml": "xml"
   },
   "fileNames": {
     "page.tsx": "next",
